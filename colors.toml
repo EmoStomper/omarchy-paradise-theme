@@ -1,0 +1,35 @@
+mode = "dark"
+
+# --- Paradise: tropical beach, always on vacation ---
+# Warm dark ocean-night palette: deep teal water, warm sand, coral,
+# palm-green. Bright + fun but never a white flash.
+
+accent                = "#FFB86B"
+selection            = "#0F5B56"
+muted                 = "#5E7A72"
+
+background            = "#0E2A2E"
+dark_background       = "#091E21"
+darker_background     = "#061517"
+lighter_background    = "#1B4247"
+
+foreground            = "#EAF6EF"
+dark_foreground       = "#7FA8A0"
+light_foreground      = "#F6FDEE"
+bright_foreground     = "#FFFFFF"
+
+red                   = "#E8735A"
+yellow                = "#F2CE6B"
+orange                = "#FFA94E"
+green                 = "#A8D98A"
+cyan                  = "#6FD6CF"
+blue                  = "#6FA8E0"
+magenta               = "#E0A8D0"
+brown                 = "#8A6B50"
+
+bright_red            = "#EF8C74"
+bright_yellow         = "#F7DA80"
+bright_green          = "#B8E8A0"
+bright_cyan           = "#85E2DB"
+bright_blue           = "#85B8EA"
+bright_magenta        = "#EAC2DC"
