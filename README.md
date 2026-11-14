@@ -38,6 +38,10 @@ The wallpapers were generated with Google Gemini and upscaled with Real-ESRGAN.
 | Blue | `#6FA8E0` |
 | Magenta | `#E0A8D0` |
 
+## Support
+
+If you enjoy Paradise, you can [buy me a coffee on Ko-fi](https://ko-fi.com/emostomper). ☕
+
 ## License
 
 [MIT](LICENSE)
